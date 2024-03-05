@@ -114,16 +114,16 @@ python GUI.py
 ## Results
 
 - Demo Results
-  ![Demo Results](1_demo_results.png)
+  ![Demo Results](./demo/1_demo_results.png)
 
 - GUI window
-  ![GUI window](2_GUI_window.png)
+  ![GUI window](./demo/2_GUI_window.png)
 
 - Input Images
-  ![Input images](3_input_images.png)
-  ![Input images](4_input_images.png)
+  ![Input images](./demo/3_input_images.png)
+  ![Input images](./demo/4_input_images.png)
   -Results prompt
-  ![Results](5_Results_image.png)
+  ![Results](./demo/5_Results_image.png)
 
 The Blood Group Detection System provides accurate blood group analysis results based on the processed images of blood samples. The detected blood group is displayed to the user along with any relevant information or alerts.
 
